@@ -1,0 +1,6 @@
+rapidz-qt usr/bin
+share/pixmaps/rapidz32.xpm usr/share/pixmaps
+share/pixmaps/rapidz16.xpm usr/share/pixmaps
+share/pixmaps/rapidz128.png usr/share/pixmaps
+debian/rapidz-qt.desktop usr/share/applications
+debian/rapidz-qt.protocol usr/share/kde4/services/

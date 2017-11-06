@@ -1,0 +1,11 @@
+[Protocol]
+exec=rapidz-qt '%u'
+protocol=rapidz
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

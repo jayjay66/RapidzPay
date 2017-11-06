@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=rapidz
+Comment=rapidz P2P Cryptocurrency
+Comment[fr]=rapidz, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=rapidz, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/rapidz-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/rapidz128.png
+MimeType=x-scheme-handler/rapidz;
+Categories=Office;
